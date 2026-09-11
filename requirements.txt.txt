@@ -1,0 +1,2 @@
+# SecurePass Analyzer uses only Python standard-library modules.
+# No external pip packages are required.
